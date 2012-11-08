@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TwitterConsumerKey">xxxxxxxxxxxxxxxxxxxxx</string>
+    <string name="TwitterConsumerSecret">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+    <string name="TwitterCallbackUrl">http://oauth.soplab.net/XXXXXXX</string>
+</resources>
